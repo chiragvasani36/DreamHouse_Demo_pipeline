@@ -43,7 +43,6 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <deprecated>false</deprecated>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -57,7 +56,6 @@
     <fields>
         <fullName>Active__c</fullName>
         <defaultValue>true</defaultValue>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Active</label>
         <trackTrending>false</trackTrending>
@@ -65,7 +63,6 @@
     </fields>
     <fields>
         <fullName>Apex_Class__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Apex Class</label>
         <length>100</length>
@@ -76,7 +73,6 @@
     </fields>
     <fields>
         <fullName>Pattern__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Invocation Pattern</label>
         <length>200</length>
@@ -87,7 +83,6 @@
     </fields>
     <fields>
         <fullName>Sample_Utterance__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Sample Utterance</label>
         <length>100</length>

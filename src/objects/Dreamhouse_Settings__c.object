@@ -4,7 +4,6 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>Einstein_Vision_Email__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Einstein Vision Email</label>
         <required>false</required>
@@ -14,7 +13,6 @@
     </fields>
     <fields>
         <fullName>LIFX_Token__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>LIFX Token</label>
         <length>255</length>
@@ -25,7 +23,6 @@
     </fields>
     <fields>
         <fullName>LIFX_URL__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>LIFX URL</label>
         <required>false</required>
@@ -34,7 +31,6 @@
     </fields>
     <fields>
         <fullName>Light_Service_URL__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Light Service URL</label>
         <required>false</required>
@@ -43,7 +39,6 @@
     </fields>
     <fields>
         <fullName>Push_Server_URL__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Push Server URL</label>
         <required>false</required>
@@ -52,7 +47,6 @@
     </fields>
     <fields>
         <fullName>Slack_Opportunity_Webhook_URL__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Slack Opportunity Webhook URL</label>
         <required>false</required>
@@ -61,7 +55,6 @@
     </fields>
     <fields>
         <fullName>Slack_Property_Webhook_URL__c</fullName>
-        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Slack Property Webhook URL</label>
         <required>false</required>
