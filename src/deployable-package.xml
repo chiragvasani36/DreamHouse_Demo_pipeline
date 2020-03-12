@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-  <types>
+  <!--<types>
     <name>CustomApplication</name>
     <members>DreamHouse</members>
-  </types>
+  </types>-->
   <types>
     <name>AuraDefinitionBundle</name>
     <members>Bot</members>
@@ -98,12 +98,15 @@
     <members>SampleDataController</members>
     <members>SlackOpportunityPublisher</members>
     <members>SlackOpportunityPublisherTest</members>
+    <members>SampleDeployClass</members>
+    <members>SampleFailingTestClass</members>
+
   </types>
   <types>
     <name>ContentAsset</name>
     <members>dreamhouselogosquare</members>
   </types>
- <!-- <types>
+<!--  <types>
     <name>Dashboard</name>
     <members>DreamHouse_Dashboards</members>
     <members>DreamHouse_Dashboards/PwhxKrnFNjvWCIHRklHhRcEIEyIIBm</members>
@@ -233,7 +236,7 @@
     <members>Slack</members>
   </types>
  
-    <!--<types>
+   <!-- <types>
         <members>*</members>
         <name>Report</name>
     </types>-->
@@ -251,16 +254,17 @@
     <members>Broker__c</members>
     <!--<members>Einstein_Vision</members>
     <members>Property_Explorer</members>
-    <members>Property_Finder</members>-->
+    <members>Property_Finder</members>
     <members>Property__c</members>
-    <members>Sample_Data_Import</members>
+    <members>Sample_Data_Import</members> -->
   </types>
   <types>
     <name>ApexTrigger</name>
     <members>InitPropertyDateListed</members>
     <members>PushNotificationTrigger</members>
     <members>RejectDuplicatePropertyFavorite</members>
-  </types>
+    <members>SampleAccountTrigger</members>  
+</types>
   <types>
     <name>Workflow</name>
     <members>Property__c</members>

@@ -47,6 +47,8 @@
         <members>PushPriceChangeNotificationTest</members>
         <members>RejectDuplicateFavoriteTest</members>
         <members>SampleDataController</members>
+        <members>SampleDeployClass</members>
+        <members>SampleFailingTestClass</members>
         <members>SlackOpportunityPublisher</members>
         <members>SlackOpportunityPublisherTest</members>
         <name>ApexClass</name>
@@ -55,6 +57,7 @@
         <members>InitPropertyDateListed</members>
         <members>PushNotificationTrigger</members>
         <members>RejectDuplicatePropertyFavorite</members>
+        <members>SampleAccountTrigger</members>
         <name>ApexTrigger</name>
     </types>
     <types>
@@ -109,10 +112,6 @@
     <types>
         <members>dreamhouselogosquare</members>
         <name>ContentAsset</name>
-    </types>
-    <types>
-        <members>DreamHouse</members>
-        <name>CustomApplication</name>
     </types>
     <types>
         <members>Bot_Command__c.Active__c</members>
@@ -178,8 +177,6 @@
     <types>
         <members>Bot_Command__c</members>
         <members>Broker__c</members>
-        <members>Property__c</members>
-        <members>Sample_Data_Import</members>
         <name>CustomTab</name>
     </types>
     <types>
