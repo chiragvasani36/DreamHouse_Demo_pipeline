@@ -40,8 +40,6 @@
         <type>Region</type>
     </flexiPageRegions>
     <masterLabel>Property Finder</masterLabel>
-    <template>
-        <name>PageTemplate_2_6_4</name>
-    </template>
+    <pageTemplate>PageTemplate_2_6_4</pageTemplate>
     <type>AppPage</type>
 </FlexiPage>

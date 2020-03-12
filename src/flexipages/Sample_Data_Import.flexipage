@@ -8,8 +8,6 @@
         <type>Region</type>
     </flexiPageRegions>
     <masterLabel>Sample Data Import</masterLabel>
-    <template>
-        <name>flexipage:defaultAppHomeTemplate</name>
-    </template>
+    <pageTemplate>flexipage:defaultAppHomeTemplate</pageTemplate>
     <type>AppPage</type>
 </FlexiPage>

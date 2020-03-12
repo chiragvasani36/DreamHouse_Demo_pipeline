@@ -39,8 +39,6 @@
         <type>Region</type>
     </flexiPageRegions>
     <masterLabel>Property Explorer</masterLabel>
-    <template>
-        <name>PageTemplate_2_7_3</name>
-    </template>
+    <pageTemplate>PageTemplate_2_7_3</pageTemplate>
     <type>AppPage</type>
 </FlexiPage>
