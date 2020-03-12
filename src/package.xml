@@ -249,10 +249,7 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
-        <members>DreamHouse_Reports</members>
-        <members>DreamHouse_Reports/Days_on_Market</members>
-        <members>DreamHouse_Reports/Portfolio_Health</members>
-        <members>DreamHouse_Reports/Properties_by_Broker</members>
+        <members>*</members>
         <name>Report</name>
     </types>
     <types>
