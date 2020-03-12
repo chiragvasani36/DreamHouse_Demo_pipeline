@@ -167,11 +167,6 @@
     </types>
     <types>
         <members>Bot_Command__c</members>
-        <members>Broker__c</members>
-        <members>Contact</members>
-        <members>Dreamhouse_Settings__c</members>
-        <members>Property_Favorite__c</members>
-        <members>Property__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -190,7 +185,6 @@
         <members>Bot_Command__c-Bot Action Layout</members>
         <members>Broker__c-Broker Layout</members>
         <members>Property_Favorite__c-Favorite Layout</members>
-        <members>Property__c-Property Layout</members>
         <name>Layout</name>
     </types>
     <types>
