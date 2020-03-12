@@ -108,7 +108,7 @@
     <members>DreamHouse_Dashboards</members>
     <members>DreamHouse_Dashboards/PwhxKrnFNjvWCIHRklHhRcEIEyIIBm</members>
   </types>
-  <types>
+ <!-- <types>
     <name>FlexiPage</name>
     <members>Broker_Record_Page</members>
     <members>Einstein_Vision</members>
@@ -117,7 +117,7 @@
     <members>Property_Record_Page</members>
     <members>Sample_Data_Import</members>
     <members>dreamhouseApplicationUtilityBar</members>
-  </types>
+  </types>-->
   <types>
     <name>Flow</name>
     <members>Advertise_New_Property</members>
@@ -233,10 +233,10 @@
     <members>Slack</members>
   </types>
  
-    <types>
+    <!--<types>
         <members>*</members>
         <name>Report</name>
-    </types>
+    </types>-->
   <types>
     <name>StaticResource</name>
     <members>botCommands</members>
