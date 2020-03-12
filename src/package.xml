@@ -178,17 +178,9 @@
     <types>
         <members>Bot_Command__c</members>
         <members>Broker__c</members>
-        <members>Einstein_Vision</members>
-        <members>Property_Explorer</members>
-        <members>Property_Finder</members>
         <members>Property__c</members>
         <members>Sample_Data_Import</members>
         <name>CustomTab</name>
-    </types>
-    <types>
-        <members>DreamHouse_Dashboards</members>
-        <members>DreamHouse_Dashboards/PwhxKrnFNjvWCIHRklHhRcEIEyIIBm</members>
-        <name>Dashboard</name>
     </types>
     <types>
         <members>Advertise_New_Property</members>

@@ -103,11 +103,11 @@
     <name>ContentAsset</name>
     <members>dreamhouselogosquare</members>
   </types>
-  <types>
+ <!-- <types>
     <name>Dashboard</name>
     <members>DreamHouse_Dashboards</members>
     <members>DreamHouse_Dashboards/PwhxKrnFNjvWCIHRklHhRcEIEyIIBm</members>
-  </types>
+  </types>-->
  <!-- <types>
     <name>FlexiPage</name>
     <members>Broker_Record_Page</members>
@@ -249,9 +249,9 @@
     <name>CustomTab</name>
     <members>Bot_Command__c</members>
     <members>Broker__c</members>
-    <members>Einstein_Vision</members>
+    <!--<members>Einstein_Vision</members>
     <members>Property_Explorer</members>
-    <members>Property_Finder</members>
+    <members>Property_Finder</members>-->
     <members>Property__c</members>
     <members>Sample_Data_Import</members>
   </types>
